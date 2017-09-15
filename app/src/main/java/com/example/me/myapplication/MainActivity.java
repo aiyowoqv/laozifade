@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.print("老子");
         System.out.print("老子_demo1");
+        System.out.print("老子_demo2");
     }
 }
